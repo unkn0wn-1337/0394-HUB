@@ -25,6 +25,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjYyMTIxZXl5OHIzOGV0MWswYndkb3Yyb3J4dTRkNDNsYXl6N2RpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7UDqjrkYBpmr5so3Q/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://discord.com/users/318961981300146176" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
